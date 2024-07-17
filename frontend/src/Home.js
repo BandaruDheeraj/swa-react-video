@@ -8,6 +8,7 @@ const Home = () => (
         Manage your shopping list! Become a preferred customer and gain access
         to discount codes, too.
       </p>
+      <img src={exampleImage} alt="Example" />
       <p>Log in to start enjoying your benefits</p>
       <br />
       <div className="button-group">
