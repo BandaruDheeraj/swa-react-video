@@ -1,4 +1,6 @@
 import React from 'react';
+import exampleImage from './example.jpg'; 
+
 
 const Home = () => (
   <div className="content-container">
