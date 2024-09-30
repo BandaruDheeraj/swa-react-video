@@ -24,7 +24,7 @@ class App extends Component {
         <div className="section columns">
           <NavBar />
           <main className="column">
-            <Suspense fallback={<div>Loading....</div>}>
+            <Suspense fallback={<div>Loading./...</div>}>
               <Routes>
                 <Route path="/" element={<Home />} />
                 {/* <Redirect from="/" exact to="/home" /> */}
